@@ -1,5 +1,5 @@
 - 👋Hi, I’m Elisa Lipari 
-- 💼 I'm a research scientist working in a pharmaceutical CRO with a strong passion for data analysis.
+- 💼 I'm a research scientist working in a pharmaceutical CRO with a strong passion for data analysis and data science
 - 🌱 I completed the Master in Data Science offered by ProfessionAI.
 - 📫 How to reach me: elisa.lipari@hotmail.it
 
